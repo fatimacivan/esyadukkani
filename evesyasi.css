@@ -1,0 +1,51 @@
+body{
+    background-color: #FAEBD7;
+}
+.firstDiv,.secoundDiv,.thirdDiv{
+    border: 7px outset rgb(122, 127, 129) ;
+    background-color:rgb(187, 208, 237) ;
+    text-align: center;
+    border-radius: 15px;
+}
+.texttype{
+    font-family: fantasy;
+    text-align: center;
+   
+}
+
+.button1 {
+    background-color: #6ea970; /* Green */
+    border: none;  
+    text-align: center;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    ;
+  }
+  .button2 {
+    background-color: #aeaeae; /* Green */
+    border: none;  
+    text-align: center;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    ;
+  }
+  .button3 {
+    background-color: #a21717; /* Green */
+    border: none;  
+    text-align: center;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    ;
+  }
